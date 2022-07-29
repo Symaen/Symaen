@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Symaen, a C/C++, C# and often web dev
+- 👋 Hi, I’m @Symaen, a C/C++, C# and web dev
 
 - 👀 I’m interested in:
     - videogames
