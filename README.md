@@ -1,4 +1,2 @@
-- C, C++, C#, TS, Py
-
+- C, C++, C#, TS, Python
 - discord : symaen
-- reddit : u/Symaen_
